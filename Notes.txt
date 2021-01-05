@@ -1,0 +1,6 @@
+Chapter 1
+
+The application will exist in a package.
+A sub-directory that includes __init__.py file is considered a package and can be imported.
+This __init__.py file executes and defines what symbols are to be exposed.
+
